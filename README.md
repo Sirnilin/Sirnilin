@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![image](https://github.com/user-attachments/assets/98bd48be-ac17-42a4-a095-b10382ecf9e3)
+
 <!--
 **Sirnilin/Sirnilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
