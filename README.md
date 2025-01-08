@@ -1,18 +1,49 @@
-## Hi there 👋
+# ПRИVЕТSТVУЮ В МОЁМ GИTXAB ИИNN
 
-![image](https://github.com/user-attachments/assets/98bd48be-ac17-42a4-a095-b10382ecf9e3)
+![Header](https://imgur.com/47gF9z5) <!-- Замените на URL вашего изображения -->
 
-<!--
-**Sirnilin/Sirnilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## СТАТИСТИКА GИTXAB
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Sirnilin&show_icons=true&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=000000)
+![Наиболее используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirnilin&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&bg_color=000000)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ТЕХNИЧЕSКИЙ SТЕК
+
+### ЯZIKИ:
+- Java
+- Python
+- Dart
+
+### FREЙМVORKИ:
+- Spring Boot
+- Flutter
+- Hibernate
+
+### BAZЫ DANNЫХ:
+- PostgreSQL
+- MySQL
+
+### Инструменты и технологии:
+- Docker
+- Git
+- GitHub
+
+### Операционные системы:
+- Linux
+- Windows
+
+---
+
+---
+
+## КОНТАКТЫ
+- **GitHub**: [Sirnilin](https://github.com/Sirnilin)
+- **Telegram**: [username](https://t.me/parlks)
+
+![Footer](https://imgur.com/undefined) <!-- Замените на URL вашего изображения -->
+
+
+---
