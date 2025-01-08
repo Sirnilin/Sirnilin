@@ -25,20 +25,14 @@
   <li>MySQL</li>
 </ul>
 
-<h3 style="color: red;">Инструменты и технологии:</h3>
+<h3 style="color: red;">DRУГOE:</h3>
 <ul>
   <li>Docker</li>
   <li>Git</li>
   <li>GitHub</li>
 </ul>
 
-<h3 style="color: red;">Операционные системы:</h3>
-<ul>
-  <li>Linux</li>
-  <li>Windows</li>
-</ul>
-
-<h2 style="color: red;">КОНТАКТЫ</h2>
+<h2 style="color: red;">KONTAKTЫ</h2>
 <ul>
   <li><strong>GitHub</strong>: <a href="https://github.com/Sirnilin" style="color: red;">Sirnilin</a></li>
   <li><strong>Telegram</strong>: <a href="https://t.me/parlks" style="color: red;">username</a></li>
