@@ -1,4 +1,4 @@
-<h2 style="color: red;">СТАТИСТИКА GИTXAB</h2>
+<h2 style="color: red;">STAT GИTXAB</h2>
 
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Sirnilin&show_icons=true&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=000000)
 ![Наиболее используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirnilin&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&bg_color=000000)
