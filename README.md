@@ -1,7 +1,3 @@
-# ПRИVЕТSТVУЮ В МОЁМ GИTXAB ИИNN
-
-![Header](https://i.imgur.com/47gF9z5.png) <!-- Замените на URL вашего изображения -->
-
 ---
 
 ## СТАТИСТИКА GИTXAB
