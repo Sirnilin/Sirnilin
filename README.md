@@ -1,6 +1,6 @@
 # ПRИVЕТSТVУЮ В МОЁМ GИTXAB ИИNN
 
-![Header](https://imgur.com/47gF9z5) <!-- Замените на URL вашего изображения -->
+![Header](https://i.imgur.com/47gF9z5.png) <!-- Замените на URL вашего изображения -->
 
 ---
 
@@ -43,7 +43,7 @@
 - **GitHub**: [Sirnilin](https://github.com/Sirnilin)
 - **Telegram**: [username](https://t.me/parlks)
 
-![Footer](https://imgur.com/undefined) <!-- Замените на URL вашего изображения -->
+![Footer](https://i.imgur.com/veaicZE.png) <!-- Замените на URL вашего изображения -->
 
 
 ---
